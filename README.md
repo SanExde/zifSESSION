@@ -1,5 +1,5 @@
 ##SC JAGAN DI JUAL!!!
-bash```
+```bash
 ✓kalau disebar kamu yg rugi sendiri
 ✓udah beli kok malah di kasih ke orang lain
 ✓sc no enc
