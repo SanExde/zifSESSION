@@ -5,4 +5,4 @@ Beli mahal-mahal malah di kasih grtis😂
 📮Kalau mau tanya-tanya silahkan tanya ke no di bawah
 ```
 
-[![Rozi](https://img.shields.io/badge/WhatsApp%20Rozi-25D366?style=for-the-badge&logo=whatsapp&logoColor=white
+[![Rozi](https://img.shields.io/badge/WhatsApp%20Rozi-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/6285828764046/)
