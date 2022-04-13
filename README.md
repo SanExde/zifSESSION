@@ -1,4 +1,4 @@
-##SC JANGAN DI SEBAR!
+## SC JANGAN DI SEBAR!
 ```bash
 Masa udah beli trus di kasih grtis
 Beli mahal-mahal malah di kasih grtis😂
