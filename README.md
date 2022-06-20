@@ -2,7 +2,7 @@
 ```bash
 Pakai aja om
 ```
-## CARA INSTALL
+## CARA DAPAT KODE QR
 ```bash
 1.) git clone
 2.) npm i
