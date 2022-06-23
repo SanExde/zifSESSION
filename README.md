@@ -1,13 +1,13 @@
 <div align="alight">
-<img src="https://telegra.ph/file/19968eb11731f27620ffe.jpg" alt="BOTCAHX" width="300" />
+<img src="https://telegra.ph/file/8654aec07b833ba2a81bc.jpg" alt="ZIFA" width="300" />
 
 ## AMBIL INSTAN
 - Klik tombol replit di bawah ini untuk instan tanpa coding  
-[![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@tioclkp02/Session-Md-5#.replit)
+[![Run on Repl.it](https://replit.com/@MNasir3/zifSESSION-MD)](https://replit.com/@MNasir3/zifSESSION-MD)
 
 # Session-Md
 Session untuk bot Md 
-[Session](https://replit.com/@tioclkp02/Session-Md-5#.replit)
+[Session](https://replit.com/@MNasir3/zifSESSION-MD)
 
   
 
@@ -15,9 +15,21 @@ Session untuk bot Md
 [ INSTALLING ]
 
 ```bash
-git clone https://github.com/BOTCAHX/Session-Md.git
-cd Session-Md
+git clone https://github.com/Botynyakamu/zifSESSION-MD
 npm i
+yarn
 node index
+```
+---------
+## INSTALL ON Termux
+[ INSTALLING ]
+
+```bash
+git clone https://github.com/Botynyakamu/zifSESSION-MD
+CD zifSESSION-MD
+npm i
+node .
+[Scan]
+cp -r (namasession.json) /sdcard
 ```
 ---------
