@@ -1,3 +1,14 @@
+</p>
+<p align="center">
+<a href="#"><img title="SHIRO-MD" src="https://img.shields.io/badge/GANTI SESSIONNYA DULU SEBELUM PAKAI,DAN JANGAN LUPA GANTI APIKEY NYA SEBELUM PAKAI-red?colorA=%255ff0000&colorB=%23017e40&style=for-the-badge"></a>
+</p>
+<p align="center">
+</p>
+<a href="#"><img title="PENTING" src="https://img.shields.io/badge/BAGI USER TERMUX HARAP BACA README-red?colorA=%255ff0000&colorB=%23971920&style=for-the-badge"></a>
+</p>
+<p align="center">
+</p>
+
 <div align="alight">
 <img src="https://telegra.ph/file/8654aec07b833ba2a81bc.jpg" alt="ZIFA" width="300" />
 
