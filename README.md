@@ -1,9 +1,9 @@
 <div align="alight">
 <img src="https://telegra.ph/file/8654aec07b833ba2a81bc.jpg" alt="ZIFA" width="300" />
 
-## AMBIL INSTAN
-- Klik tombol replit di bawah ini untuk instan tanpa coding  
-[![Run on Repl.it](https://replit.com/@MNasir3/zifSESSION-MD)
+# Ambil [seesion.data.json] Di sini => JANGAN LUPA MODE DESKTOP
+
+[![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@zeeoneofc/SessionByZeeoneOfc?lite=1&outputonly=1#.replit)
 
 # Session-Md
 Session untuk bot Md 
