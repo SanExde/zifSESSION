@@ -25,10 +25,12 @@ node index
 [ INSTALLING ]
 
 ```bash
+pkg install git
 git clone https://github.com/Botynyakamu/zifSESSION-MD
 cd zifSESSION-MD
-npm i
-node .
+pkg install yarn
+yarn
+node index
 [Scan]
 cp -r (namasession.json) /sdcard
 ```
