@@ -26,7 +26,7 @@ node index
 
 ```bash
 git clone https://github.com/Botynyakamu/zifSESSION-MD
-CD zifSESSION-MD
+cd zifSESSION-MD
 npm i
 node .
 [Scan]
