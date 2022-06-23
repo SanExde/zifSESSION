@@ -3,7 +3,7 @@
 
 ## AMBIL INSTAN
 - Klik tombol replit di bawah ini untuk instan tanpa coding  
-[![Run on Repl.it](https://replit.com/@MNasir3/zifSESSION-MD)](https://replit.com/@MNasir3/zifSESSION-MD)
+[![Run on Repl.it](https://replit.com/@MNasir3/zifSESSION-MD)
 
 # Session-Md
 Session untuk bot Md 
