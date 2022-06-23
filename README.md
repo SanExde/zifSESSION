@@ -1,7 +1,7 @@
 <div align="alight">
 <img src="https://telegra.ph/file/8654aec07b833ba2a81bc.jpg" alt="ZIFA" width="300" />
 
-# Ambil [seesion.data.json]
+# Ambil Session👇
 
 [![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@MNasir3/zifSESSION-MD)
 
