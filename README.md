@@ -3,7 +3,7 @@
 
 # Ambil [seesion.data.json] Di sini => JANGAN LUPA MODE DESKTOP
 
-[![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@zeeoneofc/SessionByZeeoneOfc?lite=1&outputonly=1#.replit)
+[![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@MNasir3/zifSESSION-MD)
 
 # Session-Md
 Session untuk bot Md 
