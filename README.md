@@ -5,9 +5,9 @@
 
 [![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@MNasir3/zifSESSION-MD)
 
-# Session-Md
-Session untuk bot Md 
-[Session](https://replit.com/@MNasir3/zifSESSION-MD)
+# TUTORIAL
+Tutorial pasang Session 
+[Tutorial replit](https://youtu.be/3m7tRD4RklM)
 
   
 
