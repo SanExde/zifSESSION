@@ -1,41 +1,63 @@
-### Hi there 👋 My name Rozi
+<div align="alight">
+<img src="https://telegra.ph/file/19968eb11731f27620ffe.jpg" alt="BOTCAHX" width="300" />
 
-<p align="center">
-  <a href="https://ibb.co/QQX130c"><img src="http://readme-typing-svg.herokuapp.com?color=1C71FA&center=true&vCenter=true&multiline=false&lines=haii'my+name+verdi+🗿🙏.;'suport+my+acount+github🗿." alt="verdibotz">
-</p>
-<img src="https://telegra.ph/file/1a3eac3701775793618b3.jpg" alt="verdikawaii" width="360" />
+## AMBIL INSTAN
+- Klik tombol replit di bawah ini untuk instan tanpa coding  
+[![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@tioclkp02/Session-Md-5#.replit)
 
-</p>
+  
+## MANUAL INSTALL
+Cara ambil session nya,-
 
-<!--
-**Rozi/Botynyakamu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- Tampilan session ada di file seperti di gambar ini
+- Hanya bisa run di replit tidak bisa di terminal lain
+- Salin session tepat di file auth_info_multi.json / jika mau file langsung ke session.data.json ganti terlebih dahulu file index
+- file index mentahan [[KLIK MENTAHAN INDEX INI]](https://github.com/BOTCAHX/Session-Md/blob/main/index.js.bak) salin dan ganti file index asli.
+```  
+const makeWASocket = require("@adiwajshing/baileys").default
+const qrcode = require("qrcode-terminal")
+const { delay, useSingleFileAuthState } = require("@adiwajshing/baileys")
+const { state, saveState } = useSingleFileAuthState('./session.data.json')
 
-Here are some ideas to get you started:
+function qr() {
+  let session = makeWASocket({
+    auth: state,
+    printQRInTerminal: true,
+  })
+  session.ev.on("connection.update", async (s) => {
+    const { connection, lastDisconnect } = s
+    if (connection == "open") {
+      await delay(1000 * 10)
+      process.exit(0)
+    }
+    if (
+      connection === "close" &&
+      lastDisconnect &&
+      lastDisconnect.error &&
+      lastDisconnect.error.output.statusCode != 401
+    ) {
+      qr()
+    }
+  })
+  session.ev.on('creds.update', saveState)
+  session.ev.on("messages.upsert", () => { })
+}
+qr()
+  ```
 
-- 🔭 I’m currently working on .string.
-- 🌱 I’m currently learning .slow respons.
-- 👯 I’m looking to collaborate on .alow.
-- 🤔 I’m looking for help with .IT IS ME OWNER ZIFABOTZ.
-- 💬 Ask me about .LOW.
-- 📫 How to reach me: .ME JAWATIMUR MOJOKERTO.
-- 😄 Pronouns: .MY IS MALE .
-- ⚡ Fun fact: ...
--->
-[![ROZI](https://github.com/Botynyakamu.png?size=100)](https://github.com/Botynyakamu) </p>  `ITs me verdi`  </p>
+# Session-Md
+Session untuk bot Md 
+[DEM0](https://replit.com/@tioclkp02/Session-Md-5#.replit)
 
- `AYANG MAAP IN GW AHAHA`
+  
 
-## GABUT DOANG
+## INSTALL ON Replit
+[ INSTALLING ]
+
 ```bash
-Pakai aja om
+git clone https://github.com/BOTCAHX/Session-Md.git
+cd Session-Md
+npm i
+node index
 ```
-## CARA DAPAT KODE QR
-```bash
-1.) git clone https://github.com/Botynyakamu/zifSESSION-MD
-2.) npm i
-3.) yarn
-4.) node index
-[❗] Pakai mode desktop kalau di replit
-```
-
-
+---------
