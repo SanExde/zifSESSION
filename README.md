@@ -28,7 +28,7 @@ npm i
 yarn
 node index
 ```
----------
+--------
 ## INSTALL ON Termux
 [ INSTALLING ]
 
